@@ -12,10 +12,11 @@ packages:
   background_locator_2:
     dependency: transitive
     description:
-      name: background_locator_2
-      sha256: "145ef41767306052cbb2159478c0369b83c9800740f7acc656530c263d371695"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: main
+      resolved-ref: "7287b25a0fb5e1eb2f796ffeeee61206ed57c583"
+      url: "https://github.com/yaduatdataspot/background_locator_3"
+    source: git
     version: "2.0.6"
   boolean_selector:
     dependency: transitive
