@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/git/background_locator_3-7287b25a0fb5e1eb2f796ffeeee61206ed57c583" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
