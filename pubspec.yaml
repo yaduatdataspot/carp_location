@@ -9,7 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  background_locator_2: ^2.0.6
+#  background_locator_2: ^2.0.6
+  background_locator_2:
+    git:
+      url: https://github.com/yaduatdataspot/background_locator_3
+      ref: main
 
 dev_dependencies:
   flutter_test:
